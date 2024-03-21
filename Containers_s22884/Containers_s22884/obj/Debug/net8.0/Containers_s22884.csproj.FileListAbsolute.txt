@@ -1,0 +1,14 @@
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.AssemblyInfoInputs.cache
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.AssemblyInfo.cs
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.csproj.CoreCompileInputs.cache
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/bin/Debug/net8.0/Containers_s22884
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/bin/Debug/net8.0/Containers_s22884.deps.json
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/bin/Debug/net8.0/Containers_s22884.runtimeconfig.json
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/bin/Debug/net8.0/Containers_s22884.dll
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/bin/Debug/net8.0/Containers_s22884.pdb
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.dll
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/refint/Containers_s22884.dll
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.pdb
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/Containers_s22884.genruntimeconfig.cache
+/Users/maximkhairullin/Desktop/APBD3/Containers_s22884/Containers_s22884/obj/Debug/net8.0/ref/Containers_s22884.dll
